@@ -1,1 +1,1 @@
-# hometask6 Derkutsa Olha
+# lab 6 
